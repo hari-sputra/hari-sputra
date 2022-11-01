@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hari-sputra
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Mobile Apps Using Flutter
+- 👨‍💻 I work as a fullstack laravel web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
