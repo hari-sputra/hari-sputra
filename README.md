@@ -54,9 +54,16 @@ I love diving into complex problems, designing elegant solutions, and collaborat
 
 ### 📊 GitHub Stats
 
-![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari-sputra&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=hari-sputra&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari-sputra&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari-sputra&show_icons=true&theme=tokyonight" alt="Hari's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hari-sputra&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-sputra&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 
