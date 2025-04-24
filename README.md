@@ -56,6 +56,7 @@ I love diving into complex problems, designing elegant solutions, and collaborat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hari-sputra&show_icons=true&theme=tokyonight" height="180" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hari-sputra&layout=compact&theme=tokyonight)
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hari-sputra&theme=tokyonight&hide_border=false" height="180"/>
 </p>
 
