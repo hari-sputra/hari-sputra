@@ -24,8 +24,8 @@ I love diving into complex problems, designing elegant solutions, and collaborat
 - 🔴 Angular
 
 **Backend:**
-- 🚀 Laravel (PHP)
-- 🐘 MySQL
+- 🚀 Laravel (PHP), NestJS, Golang
+- 🐘 MySQL, Postgressql
 - 🔧 REST API development
 
 **Styling:**
