@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Hari Saputra**, a passionate fullstack developer with over **2 years** of experience in building modern, scalable, and performant web applications.
+I'm **Hari Saputra**, a passionate fullstack developer with over **3 years** of experience in building modern, scalable, and performant web applications.
 
 Currently, I'm focused on crafting seamless user experiences using **Nuxt**, **Vue**, **React**, and **Next.js** on the frontend, while powering the backend with **Laravel** and other robust technologies.
 
